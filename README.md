@@ -1,4 +1,3 @@
-# DataGuard Coding Challenge
 ##General description
 
 Features that were implemented in the project:
@@ -19,9 +18,3 @@ Endpoints:
 * GET/ http://localhost:8080/v1/superhero/
 * GET/ http://localhost:8080/v1/superhero/{alias}
 * POST/ http://localhost:8080/v1/superhero/
-
-
-
-Looking forward to meeting or some feedback!
-Best Regards
-Oleg
